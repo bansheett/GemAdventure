@@ -1,5 +1,7 @@
 # Gioco di Combattimento a Turni
 
+DISCLAIMER* Progetto fatto da 0 "from scratch" interamente per sviluppare le mie fondamenta di Java Base, assolutamente ottimizzabile ma preferisco lasciarlo cosi' perchè rappresenta una fase importante della mia carriera da sviluppatore!
+
 Un gioco di combattimento a turni sviluppato in Java dove due personaggi si scontrano contro nemici in battaglie tattiche. Il gioco presenta un sistema di combattimento con abilità speciali, gestione dell'inventario, punti esperienza e progressione dei personaggi.
 Caratteristiche
 
